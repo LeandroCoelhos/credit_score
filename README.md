@@ -29,7 +29,7 @@ Foi possível notar também que o serviço essencial da empresa é a prestação
 
 Com a análise da base de dados, foi possível chegar ao objetivo de categorização entre 'normal' e 'premium' de quase 69% dos nossos clientes sem aplicação de um único algoritimo de Machine Leaning. Isso traz muitos beneficios para empresa, entre eles:
 
-    Redução de custos computacionais locais e/ou em nuvem;
-    Redução do tempo de processamento dos dados, uma vez que não demanda um pré-processamento nem o treinamento dos algorítimos ou predições feitas por eles(como no caso do KNN que é uma etapa bem demorada);
-    Explicabilidade do processo, onde todas as etapas podem ser constatadas e vizualmente explicadas;
-    Direcionabilidade dos resultados para cada setor, onde o setor de vendas, por exemplo, pode se interessar por aqueles clientes que tem maiores propensões a adquirir pacotes que ainda não tenham (clientes premium tem essa tendencia), ou o setor de cobranças que podem se interessar pelas formas de pagamento dos clientes.
+   * Redução de custos computacionais locais e/ou em nuvem;
+   * Redução do tempo de processamento dos dados, uma vez que não demanda um pré-processamento nem o treinamento dos algorítimos ou predições feitas por eles(como no caso do KNN que é uma etapa bem demorada);
+   * Explicabilidade do processo, onde todas as etapas podem ser constatadas e vizualmente explicadas;
+   * Direcionabilidade dos resultados para cada setor, onde o setor de vendas, por exemplo, pode se interessar por aqueles clientes que tem maiores propensões a adquirir pacotes que ainda não tenham (clientes premium tem essa tendencia), ou o setor de cobranças que podem se interessar pelas formas de pagamento dos clientes.
