@@ -1,5 +1,6 @@
+<p align="center">
 # Credit Score de Clientes de Telecomunicações
-
+</p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/LeandroCoelhos/credit_score/main/data/Banner%20Competi%C3%A7%C3%A3o.jpg">
 </p>
@@ -15,7 +16,7 @@ Linguagem: Python
 Notbook: [Credit Score de Clientes de Telecomunicações](https://github.com/LeandroCoelhos/credit_score/blob/main/Credit%20Score%20de%20Clientes%20de%20telecomunica%C3%A7%C3%B5es.ipynb)
 
 
-#Introdução
+# Introdução
 ----
 
  Muito se ouve falar sobre modelos preditivos, sobre como a Inteligencia artificial, o aprendizado de maquína ajudam as empresas na tomada de decisões. Mas será que todo esse esforço é nescessário? Em muitos casos uma boa análise dos dados é suficiente para direcionar muitas decisões de grande impacto nas empresas, sem gastar os preciosos e caros recursos computacionais processando grandes bases de dados.
