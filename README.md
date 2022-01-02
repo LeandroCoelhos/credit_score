@@ -1,5 +1,22 @@
 # Credit Score de Clientes de Telecomunicações
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/LeandroCoelhos/credit_score/main/data/Banner%20Competi%C3%A7%C3%A3o.jpg">
+</p>
+
+
+----
+
+
+Autor: Leandro Coelho
+
+Linguagem: Python
+
+Notbook: [Credit Score de Clientes de Telecomunicações](https://github.com/LeandroCoelhos/credit_score/blob/main/Credit%20Score%20de%20Clientes%20de%20telecomunica%C3%A7%C3%B5es.ipynb)
+
+
+#Introdução
+----
 
  Muito se ouve falar sobre modelos preditivos, sobre como a Inteligencia artificial, o aprendizado de maquína ajudam as empresas na tomada de decisões. Mas será que todo esse esforço é nescessário? Em muitos casos uma boa análise dos dados é suficiente para direcionar muitas decisões de grande impacto nas empresas, sem gastar os preciosos e caros recursos computacionais processando grandes bases de dados.
 
@@ -33,3 +50,12 @@ Com a análise da base de dados, foi possível chegar ao objetivo de categoriza�
    * Redução do tempo de processamento dos dados, uma vez que não demanda um pré-processamento nem o treinamento dos algorítimos ou predições feitas por eles(como no caso do KNN que é uma etapa bem demorada);
    * Explicabilidade do processo, onde todas as etapas podem ser constatadas e vizualmente explicadas;
    * Direcionabilidade dos resultados para cada setor, onde o setor de vendas, por exemplo, pode se interessar por aqueles clientes que tem maiores propensões a adquirir pacotes que ainda não tenham (clientes premium tem essa tendencia), ou o setor de cobranças que podem se interessar pelas formas de pagamento dos clientes.
+
+
+---
+#Premiação
+Essa análise exploratória foi utilizada em conjunto com uma combinação de modelos de Machine Learning para obter melhores resultados na competição, que me garantiram o 3º Lugar. Deixarei o link para o notbook utilizado na competição, caso tenha interesse de se aprofundar neste projeto.
+<p align="center">
+<img src="https://raw.githubusercontent.com/LeandroCoelhos/credit_score/main/data/Resultado%205%20competicao.jpeg">
+</p>
+
