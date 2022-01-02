@@ -1,9 +1,9 @@
 # Credit Score de Clientes de Telecomunicações
 
 
- Muito se ouve falar sobre modelos preditivos, sobre como a Inteligencia artificial, o aprendizado de maquína (famoso Machine Learning) ajudam as empresas nas tomadas de decisões. Mas será que todo esse esforço é nescessário para resolver todos os problemas? Em muitos casos uma boa análise dos dados é suficiente para direcionar muitas decisões de grande impacto nas empresas, sem gastar os preciosos e caros recursos computacionais processando grandes bases de dados.
+ Muito se ouve falar sobre modelos preditivos, sobre como a Inteligencia artificial, o aprendizado de maquína ajudam as empresas na tomada de decisões. Mas será que todo esse esforço é nescessário? Em muitos casos uma boa análise dos dados é suficiente para direcionar muitas decisões de grande impacto nas empresas, sem gastar os preciosos e caros recursos computacionais processando grandes bases de dados.
 
-Aqui temos exatamente essa proposta, ver o quanto de informações relevantes conseguimos extrair dos dados sem a nescessidade de implementar modelos de Machine Learning.
+Aqui temos exatamente essa proposta, ver o quanto de informações conseguimos extrair dos nossos dados sem a nescessidade de implementar modelos de Machine Learning para tomar uma decisão que impacte na empresa.
 
 Vamos partir da situação que recebemos um conjunto de dados de uma empresa de telecomunicações (da qual nada sabemos), e vamos tentar aumentar gerar informações que aumente seus lucros e melhore sua base de clientes rentáveis. E ao longo do processo, vamos tentar responder algumas perguntas SEM o uso de Machine Learning:
 
