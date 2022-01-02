@@ -1,5 +1,5 @@
 <p align="center">
-# Credit Score de Clientes de Telecomunicações
+<h1> Credit Score de Clientes de Telecomunicações</h1>
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/LeandroCoelhos/credit_score/main/data/Banner%20Competi%C3%A7%C3%A3o.jpg">
