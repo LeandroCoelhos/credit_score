@@ -1,9 +1,6 @@
 <p align="center">
 <h1> Credit Score de Clientes de Telecomunicações</h1>
 </p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/LeandroCoelhos/credit_score/main/data/Banner%20Competi%C3%A7%C3%A3o.jpg">
-</p>
 
 
 ----
@@ -56,7 +53,3 @@ Com a análise da base de dados, foi possível chegar ao objetivo de categoriza�
 ---
 #Premiação
 Essa análise exploratória foi utilizada em conjunto com uma combinação de modelos de Machine Learning para obter melhores resultados na competição, que me garantiram o 3º Lugar. Deixarei o link para o notbook utilizado na competição, caso tenha interesse de se aprofundar neste projeto.
-<p align="center">
-<img src="https://raw.githubusercontent.com/LeandroCoelhos/credit_score/main/data/Resultado%205%20competicao.jpeg">
-</p>
-
