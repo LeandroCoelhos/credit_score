@@ -53,4 +53,4 @@ Com a análise da base de dados, foi possível chegar ao objetivo de categoriza�
 ---
 Essa análise exploratória foi utilizada em conjunto com uma combinação de modelos de Machine Learning para obter melhores resultados na competição, que me garantiram o 3º Lugar. Deixarei o link para o notbook utilizado na competição, caso tenha interesse de se aprofundar neste projeto.
 
-Notbook: [Modelo de Machine Learning Competição](https://github.com/LeandroCoelhos/credit_score/blob/main/Credit%20Score%20de%20Clientes%20de%20telecomunica%C3%A7%C3%B5es.ipynb)
+Notbook: [Modelo de Machine Learning Competição](https://github.com/LeandroCoelhos/credit_score/blob/main/Credit_Score_Modelagem.ipynb)
